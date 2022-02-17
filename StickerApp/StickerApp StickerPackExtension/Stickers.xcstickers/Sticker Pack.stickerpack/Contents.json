@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "Arbok.sticker"
+    },
+    {
+      "filename" : "Charizard.sticker"
+    },
+    {
+      "filename" : "Pidgeotto.sticker"
+    },
+    {
+      "filename" : "Venusaur.sticker"
+    }
+  ]
+}
